@@ -1,0 +1,188 @@
+{
+    "workouts": [
+        {
+            "name": "Seated Alternating Hammer Curls",
+            "tags": [
+                "arms",
+                "biceps",
+                "pull",
+                "upper body",
+                "isolated"
+            ]
+        },
+        {
+            "name": "Seated Hammer Curls",
+            "tags": [
+                "arms",
+                "biceps",
+                "pull",
+                "upper body"
+            ]
+        },
+        {
+            "name": "Standing Hammer Curls",
+            "tags": [
+                "arms",
+                "biceps",
+                "pull",
+                "upper body"
+            ]
+        },
+        {
+            "name": "Standing Alternating HAmmer Curls",
+            "tags": [
+                "arms",
+                "biceps",
+                "pull",
+                "upper body"
+            ]
+        },
+        {
+            "name": "Standing Barbell Curls",
+            "tags": [
+                "arms",
+                "biceps",
+                "pull",
+                "upper body"
+            ]
+        },
+        {
+            "name": "Seated Barbell Curls",
+            "tags": [
+                "arms",
+                "biceps",
+                "pull",
+                "upper body"
+            ]
+        },
+        {
+            "name": "Incline Hammer Curls",
+            "tags": [
+                "arms",
+                "biceps",
+                "pull",
+                "upper body"
+            ]
+        },
+        {
+            "name": "Incline Alternating Hammer Curls",
+            "tags": [
+                "arms",
+                "biceps",
+                "pull",
+                "upper body"
+            ]
+        },
+        {
+            "name": "Cable Curls",
+            "tags": [
+                "arms",
+                "biceps",
+                "pull",
+                "upper body"
+            ]
+        },
+        {
+            "name": "21's",
+            "tags": [
+                "arms",
+                "biceps",
+                "pull",
+                "upper body"
+            ]
+        },
+        {
+            "name": "Kickbacks",
+            "tags": [
+                "arms",
+                "triceps",
+                "push",
+                "upper body"
+            ]
+        },
+        {
+            "name": "Seated Single Arm Extensions",
+            "tags": [
+                "arms",
+                "triceps",
+                "push",
+                "upper body"
+            ]
+        },
+        {
+            "name": "Standing Single Arm Extensions",
+            "tags": [
+                "arms",
+                "triceps",
+                "push",
+                "upper body"
+            ]
+        },
+        {
+            "name": "Standing Tricep Extensions",
+            "tags": [
+                "arms",
+                "triceps",
+                "push",
+                "upper body"
+            ]
+        },
+        {
+            "name": "Cable Push Down",
+            "tags": [
+                "arms",
+                "triceps",
+                "push",
+                "upper body"
+            ]
+        },
+        {
+            "name": "Skullcrushers",
+            "tags": [
+                "arms",
+                "triceps",
+                "chest",
+                "push",
+                "upper body"
+            ]
+        },
+        {
+            "name": "Military Press",
+            "tags": [
+                "shoulders",
+                "triceps",
+                "back",
+                "push",
+                "upper body"
+            ]
+        },
+        {
+            "name": "Stnading Shoulder Press",
+            "tags": [
+                "shoulders",
+                "back",
+                "triceps",
+                "push",
+                "upper body"
+            ]
+        },
+        {
+            "name": "Cable Flys",
+            "tags": [
+                "shoulders",
+                "chest",
+                "push",
+                "upper body"
+            ]
+        },
+        {
+            "name": "Seated Dumbbell Shoulder Press",
+            "tags": [
+                "shoulders",
+                "triceps",
+                "back",
+                "upper body"
+            ]
+        }
+    ]
+}
