@@ -1,6 +1,7 @@
 import random
 import json
 
+filtered_list = []
 
 shoulders = ["Military Press", "Standing Shoulder Press","Cable Flys", "Seated Shoulder Press", "Seated Reverse Flys", "Shrugs", "Seated Dumbbell Shoulder Press"]
 back = ["Rows", "Pullovers", "Lat Pulldowns", "Bent Over Rows", "Chin-ups", "Pull-ups", "Lower-Back Extensions"]
@@ -16,15 +17,13 @@ class intensity():
    pass
 
 with open("workouts.json") as w:
-   workout = json.load(w) 
-   for x in workout: # X is the variable 
-      keys = x.keys()
-      print (keys)
-      values = x.values()
-      print(values)
-      items = x.items()
-  
+   workouts = json.load(w) 
+   print(len(workouts))
+   for workout in workouts:
+      if "chest" in workout["tags"]:
+         filtered_list.append(workout)
+   
+print(filtered_list)
+      
 
-print(type(w))
 
-  
