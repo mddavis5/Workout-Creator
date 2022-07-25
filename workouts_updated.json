@@ -1,0 +1,52 @@
+       [ 
+        {
+            "Name": "Seated Alternating Hammer Curls",
+            "Primary Group": "Biceps",
+            "Secondary Group": "Arms" ,
+            "Leverage": "pull",
+            "Body Group": "upper body"
+        },
+        {
+            "Name": "Seated Hammer Curls",
+            "Primary Group": "Biceps",
+            "Secondary Group": "Arms",
+            "Leverage": "pull",
+            "Body Group":"upper body"
+        },
+        {
+            "Name": "Standing Hammer Curls",
+            "Primary Group": "Biceps",
+            "Secondary Group":"Arms",
+            "Leverage": "pull",
+            "Body Group": "upper body"
+        },
+        {
+            "Name": "Standing Alternating HAmmer Curls",
+            "Primary Group":"Biceps",
+            "Secondary Group":"Arms",
+            "Leverage": "pull",
+            "Body Group": "upper body"
+        },
+        {
+            "Name": "Standing Barbell Curls",
+            "Primary Group":"Biceps",
+            "Secondary Group":"Arms",
+            "Leverage":"pull",
+            "Body Group":"upper body"
+        },
+        {
+            "Name": "Seated Barbell Curls",
+            "Primary Group": "Biceps",
+            "Secondary Group":"Arms",
+            "Leverage":"pull",
+            "Body Group":"upper body"
+        },
+        {
+            "Name": "Incline Hammer Curls",
+            "Primary Group":"Biceps",
+            "Secondary Group":"Arms",
+            "Leverage":"pull",
+            "Body Group":"upper body"
+        }
+    ]
+       

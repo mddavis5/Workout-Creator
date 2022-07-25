@@ -1,0 +1,28 @@
+{
+  "workouts": [
+    {
+      "name": "Military Press",
+      "tags": [
+        "arms",
+        "shoulders",
+        "back"
+      ]
+    },
+    {
+      "name": "Standing Shoulder Press",
+      "tags": [
+        "arms",
+        "shoulders",
+        "back"
+      ]
+    },
+    {
+      "name": "Seated Reverse Flys",
+      "tags": [
+        "arms",
+        "shoulders",
+        "back"
+      ]
+    }
+  ]
+}

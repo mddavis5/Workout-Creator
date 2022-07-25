@@ -1,4 +1,5 @@
-[
+{
+    "workouts": [
         {
             "name": "Seated Alternating Hammer Curls",
             "tags": [
@@ -184,3 +185,4 @@
             ]
         }
     ]
+}
